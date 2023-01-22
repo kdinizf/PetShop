@@ -1,9 +1,10 @@
 package Registros;
 
+import Enums.Vacinas;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Date;
-import Enums.Vacinas;
 
 public class EsquemaVacinal {
 

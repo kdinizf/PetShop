@@ -3,7 +3,6 @@ package Registros;
 import Enums.EstadoAnimal;
 import Enums.Porte;
 
-import java.util.ArrayList;
 import java.util.Date;
 
 public class Gato extends Animal{
